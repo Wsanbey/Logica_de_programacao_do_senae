@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T22:13:58.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="rxj0MJg_wJCVVq-BXbv1" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T22:18:50.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="KGOcENpiblH56Opowl_U" version="20.8.3" type="github">
   <diagram id="s8lGNTlZyGDKWvNCeoKv" name="Página-1">
-    <mxGraphModel dx="948" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="948" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,13 +39,13 @@
         <mxCell id="6lvpyDJvIURICQRPQb3R-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=120;entryDy=70;entryPerimeter=0;" parent="1" source="6lvpyDJvIURICQRPQb3R-16" target="6lvpyDJvIURICQRPQb3R-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6lvpyDJvIURICQRPQb3R-16" value="&lt;br&gt;estoque = quantidade_peca&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6lvpyDJvIURICQRPQb3R-16" value="Saldo_peca&amp;nbsp;= quantidade_peca&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="359" y="480" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6lvpyDJvIURICQRPQb3R-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6lvpyDJvIURICQRPQb3R-18" target="6lvpyDJvIURICQRPQb3R-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6lvpyDJvIURICQRPQb3R-18" value="estoque &amp;lt;= quantidade_peca&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6lvpyDJvIURICQRPQb3R-18" value="Saldo_peca&amp;nbsp;&amp;lt;= quantidade_peca&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="660" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6lvpyDJvIURICQRPQb3R-24" value="tudo&amp;nbsp; preenchido" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
