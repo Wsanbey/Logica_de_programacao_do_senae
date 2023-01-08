@@ -1,14 +1,14 @@
-1 - O sistema solicitara ao usuario o saldo da iniciala da peça.
-2 - Ao preencher o usuario é levado para o proximo campo onde 
-deve escolher entre a opção: 1 - Compra ou 2 - Vender.
-3 - O sistema novamente leva o usuario para o proximo campo: quantidade_de_peças.
-4 - O sistema espera até os dados serem preenchidos.
-5 - O sistema faz a verificação dos dados.
-6 - Se entrada for 1: é somada ao estoque.
-6 - Se entrada for 2: é subtraida do estoque.
-7 - Caso seja informado uma quantidade maior que o saldo da peça, 
+okay 1 - O sistema solicitara ao usuario o saldo da iniciala da peça. 
+okay 2 - Ao preencher o usuario é levado para o proximo campo onde 
+        deve escolher entre a opção: 1 - Compra ou 2 - Vender. 
+okay 3 - O sistema novamente leva o usuario para o proximo campo: quantidade_de_peças. 
+okay 4 - O sistema espera até os dados serem preenchidos.
+okay 5 - O sistema faz a verificação dos dados.
+okay 6 - Se entrada for 1: é somada ao estoque.
+okay 6 - Se entrada for 2: é subtraida do estoque.
+okay 7 - Caso seja informado uma quantidade maior que o saldo da peça, 
     apresentar a mensagem “Saldo insuficiente" e desconsiderar 
     atualização de saldo;
-8 - Apresentar o saldo atualizado do estoque.
-9 - o sistema perguntar se o usuário deseja continuar (s) ou não (n) a entrada de dados.
+okay 8 - Apresentar o saldo atualizado do estoque.
+okay 9 - o sistema perguntar se o usuário deseja continuar (s) ou não (n) a entrada de dados.
 10 - Se sim retorna ao inicio. Se não o sistema, apresentar a mensagem "Sistema encerrado".
