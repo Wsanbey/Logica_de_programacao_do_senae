@@ -11,4 +11,4 @@ okay 7 - Caso seja informado uma quantidade maior que o saldo da peça,
     atualização de saldo;
 okay 8 - Apresentar o saldo atualizado do estoque.
 okay 9 - o sistema perguntar se o usuário deseja continuar (s) ou não (n) a entrada de dados.
-10 - Se sim retorna ao inicio. Se não o sistema, apresentar a mensagem "Sistema encerrado".
+okay 10 - Se sim retorna ao inicio. Se não o sistema, apresentar a mensagem "Sistema encerrado".
